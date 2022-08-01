@@ -21,6 +21,7 @@ nav>ul,a{
     margin:20px ;
     font-size: 1.3em;
     font-family: oswald;
+    text-transform: uppercase;
 }
 main{
     background-color: white;
