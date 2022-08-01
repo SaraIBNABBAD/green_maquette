@@ -65,11 +65,7 @@ button{
     border:1px solid #b8cb21;
     height: 30px;
 }
-i{
-    color: #b8cb21;
-    font-size: 25px;
-    margin-right: 3px;
-}
+
 footer>p{
     text-align: center;
 }
