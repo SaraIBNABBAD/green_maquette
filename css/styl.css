@@ -15,10 +15,10 @@ nav{
     width: 750px;
     margin:auto;
 }
-header>ul>li{
+nav>ul>li{
     display: inline-block;
  }
-header>ul,a{
+nav>ul,a{
     float: right;
     color:#2c4106;
     margin:10px ;
